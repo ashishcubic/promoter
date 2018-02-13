@@ -1,0 +1,50 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/red"
+    tools:context="com.apbl.promoterapp.screens.activity.SplashActivity">
+
+    <ImageView
+        android:id="@+id/speaker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/margin_146"
+        android:src="@drawable/logo_splash" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/speaker"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/margin_8"
+        android:lineSpacingExtra="@dimen/line_spacing_10"
+        android:text="@string/promoter"
+        android:textAllCaps="true"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_size_36" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/airtel"
+        android:layout_alignLeft="@id/airtel"
+        android:layout_alignStart="@id/airtel"
+        android:layout_marginBottom="@dimen/margin_4"
+        android:lineSpacingExtra="@dimen/line_spacing_3"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_size_10"
+        android:text="@string/powered_by" />
+
+    <ImageView
+        android:id="@+id/airtel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/margin_14_8"
+        android:src="@drawable/logo_airtel" />
+
+</RelativeLayout>
+

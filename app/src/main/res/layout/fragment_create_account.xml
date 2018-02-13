@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:paddingLeft="@dimen/margin_30"
+    android:paddingRight="@dimen/margin_30">
+
+    <ImageView
+        android:id="@+id/image_logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/margin_34"
+        android:padding="@dimen/padding_11"
+        android:background="@drawable/circle_red_bg"
+        android:src="@drawable/loud_speeker" />
+
+    <TextView
+        android:id="@+id/promoter_level"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image_logo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/margin_14_5"
+        android:lineSpacingExtra="@dimen/line_spacing_6"
+        android:text="@string/promoter"
+        android:textColor="@color/red"
+        android:textSize="@dimen/text_size_24"
+        android:textAllCaps="true"/>
+
+    <TextView
+        android:id="@+id/login_level"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/promoter_level"
+        android:layout_marginTop="@dimen/margin_36_5"
+        android:lineSpacingExtra="@dimen/line_spacing_5"
+        android:text="@string/login"
+        android:textColor="@color/grey_dark"
+        android:textSize="@dimen/text_size_20" />
+
+
+    <Spinner
+        android:id="@+id/user_type"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/login_level"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="@dimen/margin_38" />
+
+    <TextView
+        android:id="@+id/border"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/user_type"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:background="@color/grey_light" />
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/input_layout_frag_login_lapu_num"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/border"
+        android:layout_marginTop="@dimen/margin_36">
+
+        <EditText
+            android:id="@+id/et_frag_login_lapu_num"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/enter_lapu_number"
+            android:inputType="phone"
+            android:lineSpacingExtra="@dimen/line_spacing_3"
+            android:maxLength="10"
+            android:maxLines="1"
+            android:padding="@dimen/padding_10"
+            android:singleLine="true"
+            android:textColor="@color/grey_dark"
+            android:textColorHint="@color/hint"
+            android:textColorHighlight="@color/hint"
+            android:textSize="@dimen/text_size_16" />
+
+    </android.support.design.widget.TextInputLayout>
+
+    <Button
+        android:id="@+id/btn_request_otp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/input_layout_frag_login_lapu_num"
+        android:layout_marginTop="@dimen/margin_47_5"
+        android:background="@drawable/bg_btn_blue_curved"
+        android:text="@string/btn_request_otp"
+        android:textSize="@dimen/text_size_14"
+        android:textColor="@color/white" />
+
+
+</RelativeLayout>

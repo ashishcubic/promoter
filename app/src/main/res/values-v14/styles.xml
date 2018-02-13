@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- Base application theme. -->
+<style name="APBAppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <item name="colorPrimary">@color/primary_color</item>
+    <item name="colorPrimaryDark">@color/primary_color_dark</item>
+    <!-- Customize your theme here. -->
+</style>
+</resources>

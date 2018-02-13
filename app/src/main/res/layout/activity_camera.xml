@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/topLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#858585"
+    android:keepScreenOn="true">
+
+    <include
+        android:id="@+id/tool_bar_am"
+        layout="@layout/toolbar" />
+
+
+    <com.apbl.promoterapp.view.uicamera.CameraSourcePreview
+        android:id="@+id/preview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/tool_bar_am">
+
+        <com.apbl.promoterapp.view.uicamera.GraphicOverlay
+            android:id="@+id/faceOverlay"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </com.apbl.promoterapp.view.uicamera.CameraSourcePreview>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/take_selfie"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|bottom"
+            android:textSize="14sp"
+            android:textColor="#ffffff"
+            android:text="Capture Selfie"
+            android:background="@drawable/bg_btn_blue_curved"
+            />
+
+    </LinearLayout>
+
+</RelativeLayout>

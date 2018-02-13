@@ -1,0 +1,50 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Per the design guidelines, navigation drawers should be between 240dp and 320dp:
+         https://developer.android.com/design/patterns/navigation-drawer.html -->
+    <dimen name="navigation_drawer_width">240dp</dimen>
+
+    <dimen name="normal_text_size">14sp</dimen>
+    <dimen name="margin_1x">10dp</dimen>
+    <dimen name="circle_indicator_radius">5dp</dimen>
+    <dimen name="default_text_size">16sp</dimen>
+    <dimen name="small_margin">10dp</dimen>
+
+
+    <dimen name="text_size_10">10sp</dimen>
+    <dimen name="text_size_16">16sp</dimen>
+    <dimen name="text_size_18">18sp</dimen>
+    <dimen name="text_size_36">36sp</dimen>
+
+    <dimen name="margin_4">4dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="margin_30">30dp</dimen>
+    <dimen name="margin_146">146dp</dimen>
+    <dimen name="margin_14_8" format="float">14.8dp</dimen>
+    <dimen name="margin_14_5" format="float">14.5dp</dimen>
+    <dimen name="margin_36_5" format="float">36.5dp</dimen>
+    <dimen name="margin_47_5" format="float">47.5dp</dimen>
+    <dimen name="margin_35_5" format="float">35.5dp</dimen>
+    <dimen name="line_spacing_3">3sp</dimen>
+    <dimen name="line_spacing_10">10sp</dimen>
+    <dimen name="margin_34">34dp</dimen>
+    <dimen name="padding_11">11dp</dimen>
+    <dimen name="line_spacing_6">6sp</dimen>
+    <dimen name="text_size_24">24sp</dimen>
+    <dimen name="line_spacing_5">5sp</dimen>
+    <dimen name="text_size_20">20sp</dimen>
+    <dimen name="margin_38">38dp</dimen>
+    <dimen name="margin_36">36dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="text_size_14">14sp</dimen>
+    <dimen name="margin_17">17dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+
+
+    <dimen name="margin_22_5" format="float">22.5dp</dimen>
+    <dimen name="margin_12_5" format="float">12.5dp</dimen>
+
+</resources>

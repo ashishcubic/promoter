@@ -1,0 +1,4 @@
+#Tue Feb 13 12:48:00 IST 2018
+base.0=/home/peddiraju/Documents/promoter/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

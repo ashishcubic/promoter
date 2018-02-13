@@ -1,0 +1,35 @@
+<resources>>
+
+    <!-- Base application theme. -->
+    <style name="APBAppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorPrimaryDark">@color/primary_color_dark</item>
+        <item name="searchViewStyle">@style/APBAppTheme.SearchView</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="APBAppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="CustomDialog" parent="android:Theme.Dialog">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+    <style name="APBAppTheme.SearchView" parent="Widget.AppCompat.SearchView">
+        <item name="closeIcon">@android:color/transparent</item>
+    </style>
+
+    <style name="material_blue_btn" parent="android:Widget.Material.Button">
+        <item name="android:background">@drawable/bg_btn_blue_curved</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">@dimen/normal_text_size</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:paddingRight">20dp</item>
+    </style>
+</resources>

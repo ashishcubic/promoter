@@ -1,0 +1,273 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:2:1-59:12
+MERGED from [com.android.support:design:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/357ba983458d1685b5dcbaad0b7d7375/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/fb9f5621beac6f9a6320e0bcd092e3cb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/ce98403168014cebfa1a65bee8defee5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.8.0.aar/0d067fdade3917d25067ca21b0ded674/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/feb6a5ff4d3dfddd03026eea0d1a1875/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.8.0.aar/a1705dc508c9d211475e624ed40291fc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/ebcfc7d3c806deeb20f2207712859ff3/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/0c1e5e8d8c35f345b6ef85517868aa76/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/d687d9d45c8125dd23f2a848445bd643/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/81f90cd0064374fb8e9c427d450db850/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/3c836a14804a52bf02bf19ee23c23681/AndroidManifest.xml:2:1-11:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/fca1f005f3c5d5c10f32de53ae9a5f5f/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/11991573175f349cfde6b7094a17aa94/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/885f1964da406fcaf8e448194868921c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/9a63449d98b48598ae878f1f7a36216a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/aee074cb2599b52cf45b8bbd42cb7803/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/d438aaecf75cdb71c0f0bf0433e2847d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/685453b5946083549c57da354a168c64/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/f2500a7c0d2eb112af0bdaf02d9f7a73/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/2f70073422c19ed908576b98d7aac004/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/b27b6ce0fdc4eaf576f9b78e26d1ff00/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-11.8.0.aar/d93ff740d7c5896637042916b4fd56bb/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/90ce9401e247d7a22c818db734a51775/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/eb14f274681ce23e23a203a844d112ad/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/1a3a3e504b5761dc59f6f93cfedca24a/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/c5334db0a1e6c7cb7c3c150606f207e8/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-11.8.0.aar/e08a993f9c4c894aceaac8a4c2ecc893/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/5755aa3ba712d71af9398877266ee4d9/AndroidManifest.xml:2:1-6:12
+INJECTED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:2:1-59:12
+	package
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:2:1-59:12
+		INJECTED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:2:1-59:12
+		INJECTED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:5:5-7:35
+	android:required
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:7:9-32
+	android:name
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:6:9-47
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:10:22-62
+uses-permission#android.permission.INTERNET
+ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:14:22-78
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:15:5-70
+	android:name
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:15:22-67
+uses-permission#android.permission.READ_SMS
+ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:16:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:17:22-72
+meta-data#com.google.android.gms.version
+ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:19:5-21:65
+	android:value
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:21:9-62
+	android:name
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:20:9-54
+application
+ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:23:5-57:19
+MERGED from [com.google.android.gms:play-services-vision:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.8.0.aar/0d067fdade3917d25067ca21b0ded674/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.8.0.aar/0d067fdade3917d25067ca21b0ded674/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/feb6a5ff4d3dfddd03026eea0d1a1875/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/feb6a5ff4d3dfddd03026eea0d1a1875/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.8.0.aar/a1705dc508c9d211475e624ed40291fc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.8.0.aar/a1705dc508c9d211475e624ed40291fc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/ebcfc7d3c806deeb20f2207712859ff3/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/ebcfc7d3c806deeb20f2207712859ff3/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/0c1e5e8d8c35f345b6ef85517868aa76/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/0c1e5e8d8c35f345b6ef85517868aa76/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/d687d9d45c8125dd23f2a848445bd643/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/d687d9d45c8125dd23f2a848445bd643/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/3c836a14804a52bf02bf19ee23c23681/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/3c836a14804a52bf02bf19ee23c23681/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/fca1f005f3c5d5c10f32de53ae9a5f5f/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/fca1f005f3c5d5c10f32de53ae9a5f5f/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-11.8.0.aar/d93ff740d7c5896637042916b4fd56bb/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-11.8.0.aar/d93ff740d7c5896637042916b4fd56bb/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/90ce9401e247d7a22c818db734a51775/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/90ce9401e247d7a22c818db734a51775/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/1a3a3e504b5761dc59f6f93cfedca24a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/1a3a3e504b5761dc59f6f93cfedca24a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/c5334db0a1e6c7cb7c3c150606f207e8/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/c5334db0a1e6c7cb7c3c150606f207e8/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-11.8.0.aar/e08a993f9c4c894aceaac8a4c2ecc893/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-11.8.0.aar/e08a993f9c4c894aceaac8a4c2ecc893/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/5755aa3ba712d71af9398877266ee4d9/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/5755aa3ba712d71af9398877266ee4d9/AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:29:9-35
+	android:label
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:27:9-41
+	android:roundIcon
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:28:9-54
+	android:icon
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:26:9-43
+	android:allowBackup
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:30:9-43
+	android:name
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:24:9-44
+activity#com.apbl.promoterapp.screens.activity.SplashActivity
+ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:31:9-39:20
+	android:screenOrientation
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:33:13-49
+	android:name
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:32:13-60
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:37:27-74
+activity#com.apbl.promoterapp.screens.activity.LoginActivity
+ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:40:9-42:52
+	android:screenOrientation
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:42:13-49
+	android:name
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:41:13-59
+activity#com.apbl.promoterapp.screens.activity.HomeActivity
+ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:43:9-46:52
+	android:screenOrientation
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:46:13-49
+	android:label
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:45:13-56
+	android:name
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:44:13-58
+activity#com.apbl.promoterapp.screens.activity.AttendanceActivity
+ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:47:9-73
+	android:name
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:47:19-70
+activity#com.apbl.promoterapp.screens.activity.CameraActivity
+ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:48:9-50:52
+	android:screenOrientation
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:50:13-49
+	android:name
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:49:13-60
+receiver#com.apbl.promoterapp.util.SMSBroadCastReceiver
+ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:52:9-56:20
+	android:name
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:52:19-80
+intent-filter#android.provider.Telephony.SMS_RECEIVED
+ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:53:28-50
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:54:17-82
+	android:name
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml:54:25-79
+uses-sdk
+INJECTED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml
+INJECTED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/357ba983458d1685b5dcbaad0b7d7375/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/357ba983458d1685b5dcbaad0b7d7375/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/fb9f5621beac6f9a6320e0bcd092e3cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/fb9f5621beac6f9a6320e0bcd092e3cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/ce98403168014cebfa1a65bee8defee5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/ce98403168014cebfa1a65bee8defee5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.8.0.aar/0d067fdade3917d25067ca21b0ded674/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.8.0.aar/0d067fdade3917d25067ca21b0ded674/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/feb6a5ff4d3dfddd03026eea0d1a1875/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/feb6a5ff4d3dfddd03026eea0d1a1875/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.8.0.aar/a1705dc508c9d211475e624ed40291fc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.8.0.aar/a1705dc508c9d211475e624ed40291fc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/ebcfc7d3c806deeb20f2207712859ff3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/ebcfc7d3c806deeb20f2207712859ff3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/0c1e5e8d8c35f345b6ef85517868aa76/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/0c1e5e8d8c35f345b6ef85517868aa76/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/d687d9d45c8125dd23f2a848445bd643/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/d687d9d45c8125dd23f2a848445bd643/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/81f90cd0064374fb8e9c427d450db850/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/81f90cd0064374fb8e9c427d450db850/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/3c836a14804a52bf02bf19ee23c23681/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/3c836a14804a52bf02bf19ee23c23681/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/fca1f005f3c5d5c10f32de53ae9a5f5f/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/fca1f005f3c5d5c10f32de53ae9a5f5f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/11991573175f349cfde6b7094a17aa94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/11991573175f349cfde6b7094a17aa94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/885f1964da406fcaf8e448194868921c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/885f1964da406fcaf8e448194868921c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/9a63449d98b48598ae878f1f7a36216a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/9a63449d98b48598ae878f1f7a36216a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/aee074cb2599b52cf45b8bbd42cb7803/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/aee074cb2599b52cf45b8bbd42cb7803/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/d438aaecf75cdb71c0f0bf0433e2847d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/d438aaecf75cdb71c0f0bf0433e2847d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/685453b5946083549c57da354a168c64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/685453b5946083549c57da354a168c64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/f2500a7c0d2eb112af0bdaf02d9f7a73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/f2500a7c0d2eb112af0bdaf02d9f7a73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/2f70073422c19ed908576b98d7aac004/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/2f70073422c19ed908576b98d7aac004/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/b27b6ce0fdc4eaf576f9b78e26d1ff00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/b27b6ce0fdc4eaf576f9b78e26d1ff00/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-11.8.0.aar/d93ff740d7c5896637042916b4fd56bb/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-11.8.0.aar/d93ff740d7c5896637042916b4fd56bb/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/90ce9401e247d7a22c818db734a51775/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/90ce9401e247d7a22c818db734a51775/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/eb14f274681ce23e23a203a844d112ad/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/eb14f274681ce23e23a203a844d112ad/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/1a3a3e504b5761dc59f6f93cfedca24a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/1a3a3e504b5761dc59f6f93cfedca24a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/c5334db0a1e6c7cb7c3c150606f207e8/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/c5334db0a1e6c7cb7c3c150606f207e8/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-11.8.0.aar/e08a993f9c4c894aceaac8a4c2ecc893/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-11.8.0.aar/e08a993f9c4c894aceaac8a4c2ecc893/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/5755aa3ba712d71af9398877266ee4d9/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/5755aa3ba712d71af9398877266ee4d9/AndroidManifest.xml:4:5-43
+INJECTED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml
+INJECTED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml
+		ADDED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/peddiraju/Documents/promoter/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/ebcfc7d3c806deeb20f2207712859ff3/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/ebcfc7d3c806deeb20f2207712859ff3/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/ebcfc7d3c806deeb20f2207712859ff3/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/peddiraju/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/ebcfc7d3c806deeb20f2207712859ff3/AndroidManifest.xml:24:13-79
